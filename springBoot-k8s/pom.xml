@@ -8,11 +8,11 @@
 		<version>2.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springboot.first</groupId>
-	<artifactId>SpringBoot-First</artifactId>
+	<groupId>com.springboot.k8s</groupId>
+	<artifactId>SpringBoot-k8s</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>SpringBoot-First</name>
+	<name>SpringBoot-k8s</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
