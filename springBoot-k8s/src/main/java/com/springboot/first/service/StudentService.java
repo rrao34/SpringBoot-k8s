@@ -19,6 +19,7 @@ public class StudentService {
 		students.add(new StudentBean(1, "John", "Milano"));
 		students.add(new StudentBean(2, "Marko", "Bologna"));
 		students.add(new StudentBean(3, "Tim", "Verona"));
+		students.add(new StudentBean(3, "Ram", "Indore"));
 
 	}
 
