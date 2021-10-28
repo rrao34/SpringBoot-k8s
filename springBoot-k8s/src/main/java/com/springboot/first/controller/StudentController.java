@@ -30,7 +30,7 @@ public class StudentController {
 
 	@GetMapping(path = "/")
 	public String getStudentTest() {
-		return "Hi, I'm the new Student here,,,";
+		return "Application 'SpringBoot-K8s' is up and running on GKE";
 	}
 
 	@GetMapping(path = "/students")
